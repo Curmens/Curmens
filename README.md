@@ -1,7 +1,6 @@
 ### Watch this space!
 
-![Banner](/images/check.png)
-Format: ![Alt Text](url)
+<img src="Watch.png">
 
 ## More Repos on the way
 
