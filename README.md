@@ -1,7 +1,5 @@
 ### Watch this space!
 
-<img src="Watch.png">
-
 ## More Repos on the way
 
 <!--
@@ -17,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <img src="Watch.png">
 -->
