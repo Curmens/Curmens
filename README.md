@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=curmens&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curmens&theme=radical&layout=compact)
-<br>
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=curmens)]()
